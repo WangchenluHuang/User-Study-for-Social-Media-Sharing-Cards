@@ -87,6 +87,8 @@ Whatsapp：
 | E                          | 6            | 12%            |
 | **Total valid responses** | **50**       |                |
 
+![](https://cdn.nlark.com/yuque/0/2025/png/43043370/1745327764776-2603651d-d64d-4f4f-8c99-1f0048512842.png)![](https://cdn.nlark.com/yuque/0/2025/png/43043370/1745327797822-20487a77-c745-4895-a476-7c4de4bb6294.png)![](https://cdn.nlark.com/yuque/0/2025/png/43043370/1745327872352-da4b3981-0b2c-4016-984e-10d1395af49f.png)![](https://cdn.nlark.com/yuque/0/2025/png/43043370/1745327916087-37126406-49ea-4fc4-8e23-81903bba9e6d.png)![](https://cdn.nlark.com/yuque/0/2025/png/43043370/1745327945729-7407d6c3-f1c2-4618-81b7-bd77092cef5e.png)
+
 ###### 8、Based on your options in the previous question, briefly explain what made you think it was a forged content sharing card?<font style="color:rgb(166, 166, 166);"> [Multiple Choice Question]</font>
 
 | **Options**                                                                                                                                                | **Subtotal** | **Proportion** |
